@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1525656528 source:c:\users\jamila\desktop\projet srp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1525728884 source:c:\users\jamila\desktop\srp\projet srp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1525812237 source:d:\1lfig03 (17-18)\semestre 2\srp\srp\projet srp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
